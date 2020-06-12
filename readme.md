@@ -5,5 +5,6 @@
 ---
 
 - `git init`
-- `git remote add origen <url>
+- `git remote add origin <url>`
 - `git log`
+- `git pusch origin master`
