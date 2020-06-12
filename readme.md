@@ -6,3 +6,4 @@
 
 - `git init`
 - `git remote add origen <url>
+- `git log`
