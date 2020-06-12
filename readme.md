@@ -1,4 +1,4 @@
-# git
+# git (comandos basicos)
 - `git add -A`
 - `git commit -m "texto"`
 
